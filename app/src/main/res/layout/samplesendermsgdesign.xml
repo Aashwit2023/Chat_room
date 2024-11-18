@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="5dp">
+<androidx.cardview.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:minHeight="43dp"
+    android:minWidth="110dp"
+    android:elevation="50sp"
+    app:cardCornerRadius="5sp"
+    android:layout_alignParentRight="true"
+    app:cardBackgroundColor="@color/green"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="8sp"
+        android:layout_marginRight="10sp"
+        android:text="Hello"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:maxWidth="300dp"
+        android:paddingStart="5dp"
+        android:id="@+id/txt_sendermsg"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5:12 PM"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="3sp"
+        android:layout_marginRight="5sp"
+        android:textSize="8dp"
+        android:id="@+id/txt_sendermsgtime"
+        ></TextView>
+</androidx.cardview.widget.CardView>
+</RelativeLayout>
+    <!--    android:cardelevation="5dp"-->
