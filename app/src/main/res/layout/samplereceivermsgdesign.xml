@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="5dp">
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:elevation="50sp"
+        app:cardCornerRadius="8sp"
+        android:backgroundTint="@color/light_blue"
+        android:minHeight="50dp"
+        android:minWidth="110dp"
+        android:layout_alignParentLeft="true"
+        app:cardUseCompatPadding="true"
+        >
+        <TextView
+            android:layout_marginTop="5sp"
+            android:layout_marginLeft="8sp"
+            android:layout_marginRight="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:maxWidth="300dp"
+            android:paddingStart="5dp"
+            android:id="@+id/txt_receivermsg"
+            ></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3sp"
+            android:layout_marginRight="5sp"
+            android:text="5:12 PM"
+            android:layout_gravity="bottom|right"
+            android:textSize="8dp"
+            android:textColor="@color/Black_1"
+            android:id="@+id/txt_receivermsgtime"
+            ></TextView>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
+
+<!--android:contentpadding="5dp"-->
+<!--    android:cardelevation="10dp"-->
