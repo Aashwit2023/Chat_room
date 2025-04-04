@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_video_call.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_btn_arraw1.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_top_background.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_7.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_background_shape.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\background_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_3.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_solidblue.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\solidblue.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_alternate_email_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_input_back.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\input_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.myfirstapplication.app-merged_res-39:/layout_samplestatusdesign.xml.flat",
+        "source": "com.example.myfirstapplication.app-main-41:/layout/samplestatusdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_voice_call.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_6.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_samplereceivermsgdesign.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\samplereceivermsgdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_communication.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\communication.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_samplesendermsgdesign.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\samplesendermsgdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_contact_phone_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_contact_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_activity_chat_box.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\activity_chat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_2.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_top_background2.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_user.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_5.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_sampleuserdesign.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\sampleuserdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_btn_arrow2.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\btn_arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_arrow_circle_right_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_8.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_google.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_password.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_activity_messenger.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\activity_messenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_top_background1.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_1.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_email.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_name.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_samplestatusdesign.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\samplestatusdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_send.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_ic_4.png.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-merged_res-39:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\aashw\\.gradle\\daemon\\8.0\\com.example.myfirstapplication.app-main-41:\\drawable\\baseline_person_24.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black_1">#51514E</color>
+    <color name="Blue">#107ED6</color>
+    <color name="Dark_blue">#a3000080</color>
+    <color name="Opacity_white">#46EBF1EB</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_1">#3b608c</color>
+    <color name="green">#a2008040</color>
+    <color name="grey">#E1DFDF</color>
+    <color name="ic_launcher_background">#3B56AF</color>
+    <color name="light_blue">#8AE1EC</color>
+    <color name="light_green">#A2AAE7C8</color>
+    <color name="light_orange">#6cea6d35</color>
+    <color name="orange">#ea6d35</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="gcm_defaultSenderId" translatable="false">583499369786</string>
+    <string name="google_api_key" translatable="false">AIzaSyBt4toJGXJzcZkxUuvbWyVw8472MYOOy-A</string>
+    <string name="google_app_id" translatable="false">1:583499369786:android:bdfec9ccb71cdb60b8d403</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBt4toJGXJzcZkxUuvbWyVw8472MYOOy-A</string>
+    <string name="google_storage_bucket" translatable="false">myfirstapplication-c578c.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">myfirstapplication-c578c</string>
+    <style name="Base.Theme.MyFirstApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/Blue</item>
+        <item name="colorSecondary">@color/orange</item>
+    </style>
+    <style name="Theme.MyFirstApplication" parent="Base.Theme.MyFirstApplication"/>
+</resources>
